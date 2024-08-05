@@ -1,0 +1,6 @@
+Coppy document templates from this folder to a path somthing like this, so they show up when creating a new document in solidworks
+
+My path: C:\ProgramData\SOLIDWORKS\SOLIDWORKS 2023\templates
+Should be this^^
+
+Video on setup: https://www.youtube.com/watch?v=EoFSThzNn6k
